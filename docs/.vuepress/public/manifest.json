@@ -1,10 +1,10 @@
 {
-  "name": "陈靖",
-  "short_name": "陈靖",
+  "name": "Sven",
+  "short_name": "Sven",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "陈靖的个人主页",
+  "description": "Sven的个人主页",
   "theme_color": "blue",
   "icons": [
     {
